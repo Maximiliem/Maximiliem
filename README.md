@@ -15,7 +15,7 @@ Passionate about creating functional, clean interfaces focused on solving real-w
 HTML · CSS · JavaScript · SCSS · React (learning)
 
 ### 🗄️ Backend / Data  
-Node.js · SQL (basic)
+Node.js · SQL (basic) · Python (basic)
 
 ### ⚙️ Tools  
 Git · GitHub · Git Bash · VS Code
@@ -46,7 +46,7 @@ App created in 2023 for Genova SRL to automatically process `.txt` files contain
 
 ## 📫 Let's connect!
 
-📧 maximiliem.dev@gmail.com  
+📧 [Email](mailto:maximiliem.dev@gmail.com)
 🐙 [GitHub](https://github.com/Maximiliem)  
 💼 [LinkedIn](https://www.linkedin.com/in/maximiliano-bertta-borges/)
 
@@ -67,7 +67,7 @@ Me apasiona crear interfaces funcionales, limpias y pensadas para resolver probl
 HTML · CSS · JavaScript · SCSS · React (en proceso)
 
 ### 🗄️ Backend / Datos  
-Node.js · SQL (básico)
+Node.js · SQL (básico) · Python (básico)
 
 ### ⚙️ Herramientas  
 Git · GitHub · Git Bash · VS Code
@@ -98,7 +98,7 @@ App creada en 2023 para Genova SRL, con el fin de procesar automáticamente arch
 
 ## 📫 ¡Conectemos!
 
-📧 maximiliem.dev@gmail.com  
+📧 [Email](mailto:maximiliem.dev@gmail.com)
 🐙 [GitHub](https://github.com/Maximiliem)  
 💼 [LinkedIn](https://www.linkedin.com/in/maximiliano-bertta-borges/)
 
