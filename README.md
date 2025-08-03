@@ -1,11 +1,11 @@
+![Hello there!](https://media.tenor.com/Bks2Si272y4AAAAM/obi-wan-kenobi-hello-there.gif)
+
 # 👋🏻 Hello there!
 
 ## I'm Max
 
 Frontend web developer from Montevideo, Uruguay 🇺🇾  
 Passionate about creating functional, clean interfaces focused on solving real-world problems. I'm especially interested in building useful tools for administrative and management contexts.
-
-![Hello there!](https://media.tenor.com/Bks2Si272y4AAAAM/obi-wan-kenobi-hello-there.gif)
 
 ---
 
@@ -49,13 +49,6 @@ App created in 2023 for Genova SRL to automatically process `.txt` files contain
 📧 maximiliem.dev@gmail.com  
 🐙 [GitHub](https://github.com/Maximiliem)  
 💼 [LinkedIn](https://www.linkedin.com/in/maximiliano-bertta-borges/)
-
----
-
-> 💬 *"A man with new ideas is a madman, until his ideas triumph."*  
-> — Marcelo Bielsa
-
-![Bielsa Quote](https://storage.googleapis.com/tenfield-storage/2025/06/f6a0765e-bielsa.jpg)
 
 ---
 
@@ -111,7 +104,7 @@ App creada en 2023 para Genova SRL, con el fin de procesar automáticamente arch
 
 ---
 
-> 💬 *"Un hombre con ideas nuevas es un loco, hasta que sus ideas triunfan."*  
+> 💬 *"Un hombre con ideas nuevas es un loco, hasta que sus ideas triunfan."*  / *"A man with new ideas is a madman, until his ideas triumph."*
 > — Marcelo Bielsa
 
 ![Bielsa Quote](https://storage.googleapis.com/tenfield-storage/2025/06/f6a0765e-bielsa.jpg)
