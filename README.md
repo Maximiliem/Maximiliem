@@ -46,7 +46,7 @@ App created in 2023 for Genova SRL to automatically process `.txt` files contain
 
 ## 📫 Let's connect!
 
-📧 [Email](mailto:maximiliem.dev@gmail.com)
+📧 [Email](mailto:maximiliem.dev@gmail.com)  
 🐙 [GitHub](https://github.com/Maximiliem)  
 💼 [LinkedIn](https://www.linkedin.com/in/maximiliano-bertta-borges/)
 
@@ -98,7 +98,7 @@ App creada en 2023 para Genova SRL, con el fin de procesar automáticamente arch
 
 ## 📫 ¡Conectemos!
 
-📧 [Email](mailto:maximiliem.dev@gmail.com)
+📧 [Email](mailto:maximiliem.dev@gmail.com)  
 🐙 [GitHub](https://github.com/Maximiliem)  
 💼 [LinkedIn](https://www.linkedin.com/in/maximiliano-bertta-borges/)
 
