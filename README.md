@@ -52,10 +52,10 @@ App created in 2023 for Genova SRL to automatically process `.txt` files contain
 
 ---
 
-![Bielsa Quote](https://storage.googleapis.com/tenfield-storage/2025/06/f6a0765e-bielsa.jpg)
-
-> 💬 *"Reinvention is part of the journey, and every day is a new opportunity to learn and grow."*  
+> 💬 *"A man with new ideas is a madman, until his ideas triumph."*  
 > — Marcelo Bielsa
+
+![Bielsa Quote](https://storage.googleapis.com/tenfield-storage/2025/06/f6a0765e-bielsa.jpg)
 
 ---
 
@@ -111,7 +111,7 @@ App creada en 2023 para Genova SRL, con el fin de procesar automáticamente arch
 
 ---
 
-![Bielsa Quote](https://storage.googleapis.com/tenfield-storage/2025/06/f6a0765e-bielsa.jpg)
-
 > 💬 *"Un hombre con ideas nuevas es un loco, hasta que sus ideas triunfan."*  
 > — Marcelo Bielsa
+
+![Bielsa Quote](https://storage.googleapis.com/tenfield-storage/2025/06/f6a0765e-bielsa.jpg)
