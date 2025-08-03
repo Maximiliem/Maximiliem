@@ -1,62 +1,117 @@
-# 👋🏻 ¡Hola! / Hello there!
+# 👋🏻 Hello there!
 
-## Soy Max | I'm Max
+## I'm Max
 
-Desarrollador web frontend de Montevideo, Uruguay 🇺🇾  
-Frontend web developer from Montevideo, Uruguay 🇺🇾
+Frontend web developer from Montevideo, Uruguay 🇺🇾  
+Passionate about creating functional, clean interfaces focused on solving real-world problems. I'm especially interested in building useful tools for administrative and management contexts.
 
-Apasionado por crear interfaces funcionales, limpias y pensadas para resolver problemas reales. Me interesa especialmente construir herramientas útiles para contextos administrativos y de gestión.  
-I'm passionate about creating functional, clean interfaces focused on solving real-world problems. I'm especially interested in building useful tools for administrative and management contexts.
+![Hello there!](https://media.tenor.com/Bks2Si272y4AAAAM/obi-wan-kenobi-hello-there.gif)
 
 ---
 
-## 🧰 Stack Técnico / Tech Stack
+## 🧰 Tech Stack
 
 ### 🎨 Frontend  
 HTML · CSS · JavaScript · SCSS · React (learning)
 
-### 🗄️ Backend / Datos · Backend / Data  
+### 🗄️ Backend / Data  
 Node.js · SQL (basic)
 
-### ⚙️ Herramientas / Tools  
+### ⚙️ Tools  
 Git · GitHub · Git Bash · VS Code
 
 ---
 
-## 🧩 Proyecto destacado / Highlighted Project
+## 🧩 Highlighted Project
 
-🔎 **[Decodificador de Abitab](https://github.com/Maximiliem/decodificador-abitab)**  
-App creada en 2023 para Genova SRL, con el fin de procesar automáticamente archivos `.txt` con pagos de gastos comunes enviados por Abitab (red de cobranzas en Uruguay). La herramienta permite decodificar la información, obtener un resumen por edificio y exportar los datos a Excel para facilitar la liquidación manual.  
+🔎 **[Abitab Decoder](https://github.com/Maximiliem/decodificador-abitab)**  
 App created in 2023 for Genova SRL to automatically process `.txt` files containing payment data from Abitab (a Uruguayan payment network). It decodes the data, generates summaries by building, and exports everything to Excel to simplify manual processing.
 
 ---
 
-## ✨ Sobre mí / About Me
+## ✨ About Me
 
-🎸 Además de programar, toco el bajo eléctrico y me interesan el diseño, la IA, los videojuegos y los proyectos con impacto cotidiano.  
-🎸 Besides coding, I play electric bass and I'm interested in design, AI, video games, and tools that improve daily life.
-
-💡 Busco constantemente aprender y construir soluciones útiles, con propósito.  
+🎸 Besides coding, I play electric bass and I'm interested in design, AI, video games, and tools that improve daily life.  
 💡 I'm always learning and aiming to build purposeful, useful solutions.
 
 ---
 
-## 📍 Actualmente / Currently
+## 📍 Currently
 
-✅ Aprendiendo React / Learning React  
-✅ Trabajando en proyectos personales / Working on personal projects  
-✅ **Buscando nuevas oportunidades laborales**  
+✅ Learning React  
+✅ Working on personal projects  
 ✅ **Open to new job opportunities**
 
 ---
 
-## 📫 ¡Conectemos! / Let's connect!
+## 📫 Let's connect!
 
 📧 maximiliem.dev@gmail.com  
 🐙 [GitHub](https://github.com/Maximiliem)  
-💼 [LinkedIn](https://www.linkedin.com/in/maximiliano-bertta-borges/) 
+💼 [LinkedIn](https://www.linkedin.com/in/maximiliano-bertta-borges/)
 
 ---
+
+![Bielsa Quote](https://storage.googleapis.com/tenfield-storage/2025/06/f6a0765e-bielsa.jpg)
+
+> 💬 *"Reinvention is part of the journey, and every day is a new opportunity to learn and grow."*  
+> — Marcelo Bielsa
+
+---
+
+# 👋🏻 ¡Hola!
+
+## Soy Max
+
+Desarrollador web frontend de Montevideo, Uruguay 🇺🇾  
+Me apasiona crear interfaces funcionales, limpias y pensadas para resolver problemas reales. Me interesa especialmente construir herramientas útiles para contextos administrativos y de gestión.
+
+---
+
+## 🧰 Stack Técnico
+
+### 🎨 Frontend  
+HTML · CSS · JavaScript · SCSS · React (en proceso)
+
+### 🗄️ Backend / Datos  
+Node.js · SQL (básico)
+
+### ⚙️ Herramientas  
+Git · GitHub · Git Bash · VS Code
+
+---
+
+## 🧩 Proyecto destacado
+
+🔎 **[Decodificador de Abitab](https://github.com/Maximiliem/decodificador-abitab)**  
+App creada en 2023 para Genova SRL, con el fin de procesar automáticamente archivos `.txt` con pagos de gastos comunes enviados por Abitab (red de cobranzas en Uruguay). La herramienta permite decodificar la información, obtener un resumen por edificio y exportar los datos a Excel para facilitar la liquidación manual.  
+
+---
+
+## ✨ Sobre mí
+
+🎸 Además de programar, toco el bajo eléctrico y me interesan el diseño, la IA, los videojuegos y los proyectos con impacto cotidiano.  
+💡 Busco constantemente aprender y construir soluciones útiles, con propósito.
+
+---
+
+## 📍 Actualmente
+
+✅ Aprendiendo React  
+✅ Trabajando en proyectos personales  
+✅ **Buscando nuevas oportunidades laborales**
+
+---
+
+## 📫 ¡Conectemos!
+
+📧 maximiliem.dev@gmail.com  
+🐙 [GitHub](https://github.com/Maximiliem)  
+💼 [LinkedIn](https://www.linkedin.com/in/maximiliano-bertta-borges/)
+
+---
+
+![Bielsa Quote](https://storage.googleapis.com/tenfield-storage/2025/06/f6a0765e-bielsa.jpg)
 
 > 💬 *"Un hombre con ideas nuevas es un loco, hasta que sus ideas triunfan."*  
 > — Marcelo Bielsa
