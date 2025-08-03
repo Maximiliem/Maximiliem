@@ -1,4 +1,4 @@
-# 👋🏻 ¡Hola! / Hi there!
+# 👋🏻 ¡Hola! / Hello there!
 
 ## Soy Max | I'm Max
 
