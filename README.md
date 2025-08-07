@@ -30,6 +30,12 @@ Passionate about creating functional, clean interfaces focused on solving real-w
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 📊 GitHub Stats
+
+![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maximiliem&show_icons=true&theme=transparent&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximiliem&layout=compact&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maximiliem&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 
 ---
 
