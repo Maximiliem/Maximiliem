@@ -12,13 +12,24 @@ Passionate about creating functional, clean interfaces focused on solving real-w
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend  
-HTML · CSS · JavaScript · SCSS · React (learning)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ### 🗄️ Backend / Data  
-Node.js · SQL (basic) · Python (basic)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Basics-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Basics-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### ⚙️ Tools  
-Git · GitHub · Git Bash · VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
@@ -64,13 +75,21 @@ Me apasiona crear interfaces funcionales, limpias y pensadas para resolver probl
 ## 🧰 Stack Técnico
 
 ### 🎨 Frontend  
-HTML · CSS · JavaScript · SCSS · React (en proceso)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Backend / Datos  
-Node.js · SQL (básico) · Python (básico)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Basics-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Basics-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ⚙️ Herramientas  
-Git · GitHub · Git Bash · VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
