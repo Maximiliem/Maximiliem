@@ -4,7 +4,7 @@
 
 ## I'm Max
 
-Frontend web developer from Montevideo, Uruguay 🇺🇾  
+Web developer from Montevideo, Uruguay 🇺🇾  
 Passionate about creating functional, clean interfaces focused on solving real-world problems. I'm especially interested in building useful tools for administrative and management contexts.
 
 ---
