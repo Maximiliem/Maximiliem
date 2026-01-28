@@ -36,7 +36,7 @@ Passionate about creating functional, clean interfaces focused on solving real-w
 
 ![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maximiliem&show_icons=true&theme=transparent&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximiliem&layout=compact&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Maximiliem&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maximiliem&theme=transparent)
 
 
 ---
