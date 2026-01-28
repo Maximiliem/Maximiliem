@@ -34,12 +34,12 @@ Passionate about creating functional, clean interfaces focused on solving real-w
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Maximiliem&show_icons=true&theme=transparent&hide_title=true" alt="Max's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximiliem&layout=compact&theme=transparent" alt="Top Langs" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maximiliem&theme=react-dark&bg_color=00000000&hide_border=true" width="100%" />
 </p>
 
