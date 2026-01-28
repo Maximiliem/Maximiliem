@@ -40,10 +40,6 @@ Passionate about creating functional, clean interfaces focused on solving real-w
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maximiliem&theme=transparent" alt="GitHub Streak" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maximiliem&theme=react-dark&bg_color=00000000&hide_border=true" width="100%" />
 </p>
 
