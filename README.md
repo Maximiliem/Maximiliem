@@ -62,10 +62,10 @@ App created in 2023 for Genova SRL to automatically process `.txt` files contain
 
 ## 📍 Currently
 
-- ✅ Computer Engineering Student 
-- ✅ Learning React Js & Wordpress 
-- ✅ Working on personal projects  
-- ✅ **Open to new job opportunities**
+✅ Computer Engineering Student  
+✅ Learning React Js & Wordpress  
+✅ Working on personal projects  
+✅ **Open to new job opportunities**
 
 ---
 
