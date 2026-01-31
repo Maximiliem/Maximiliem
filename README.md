@@ -36,7 +36,7 @@ Passionate about creating functional, clean interfaces focused on solving real-w
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maximiliem&show_icons=true&theme=transparent&hide_title=true" alt="Max's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximiliem&layout=compact&theme=transparent" alt="Top Langs" />
+  
 </p>
 
 <p align="left">
