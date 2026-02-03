@@ -32,15 +32,6 @@ Passionate about creating functional, clean interfaces focused on solving real-w
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maximiliem&theme=react-dark&bg_color=00000000&hide_border=true" width="100%" />
-</p>
-
-
----
-
 ## 🧩 Highlighted Project
 
 🔎 **[Abitab Decoder](https://github.com/Maximiliem/decodificador-abitab)**  
